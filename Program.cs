@@ -18,7 +18,7 @@ static int Multiply(int a, int b)
 O references
 static void Main(string[] args)
 {
-// VERSION: 1.0.0
+// VERSION: 2.0.0-OPERATIONS
 // Здесь будет логика калькулятора
 }
 }
